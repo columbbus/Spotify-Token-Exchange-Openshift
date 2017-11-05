@@ -36,11 +36,10 @@ require 'encrypted_strings'
 #                                        callback:callback];
 #
 
-print "\e[31m------------------------------------------------------\e[0m\n"
-print "\e[31mYou're using example credentials, please replace these\e[0m\n"
-print "\e[31mwith your own and remove this silly warning.\e[0m\n"
-print "\e[31m------------------------------------------------------\e[0m\n"
-print "\7\7"
+#print "\e[31mYou're using example credentials, please replace these\e[0m\n"
+#print "\e[31mwith your own and remove this silly warning.\e[0m\n"
+#print "\e[31m------------------------------------------------------\e[0m\n"
+#print "\7\7"
 sleep(2)
 CLIENT_ID = "55e18fdf135c43829549f329d87951cb"
 CLIENT_SECRET = "b59a1d8654ad41aa9bc774621a434de3"
