@@ -1,3 +1,7 @@
 source 'https://rubygems.org'
 gem 'sinatra'
 gem 'encrypted_strings'
+gem 'net/http'
+gem 'net/https'
+gem 'base64'
+gem 'json'
